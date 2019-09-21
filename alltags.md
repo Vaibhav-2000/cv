@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Lyrics Darbar</title>
+</head>
+<body>
+
+<!-- TABLE ONE -->
+
+<table width="100%">
+	<tr>
+		<td width="40%"><h1 style="color:red">Lyrics Darbar</h1></td>
+		<td width="40%"><img src="images/2.jpg" width="100%"></td>
+		<td width="20%">hu</td>
+	</tr>
+</table>
+
+<br>
+<!-- TABLE TWO -->
+
+<table width="100%" style="background-color:green; color:white;">
+	<tr>
+		<td width="20%" style="font-size:15px">HOME</td>
+		<td width="20%">ABOUT US</td>
+		<td width="20%">HOLLYWOOD</td>
+		<td width="20%">BOLLYWOOD</td>
+		<td width="20%">CONTACT US</td>
+	</tr>
+</table>
+
+<!-- TABLE THREE -->
+
+<table width="70%" style="float:left;">
+	
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</table>
+
+<!-- TABLE FOUR -->
+
+<table width="20%" style="float:right;">
+	sfs
+</table>
+
+<!-- TABLE FIVE (by own)-->
+
+<table>
+	<tr>
+		<td width="70%" style="float: left;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</td>
+
+<!-- 29% is working but 30% is not working-->
+	<td width="29%" style="float:right;">klnvdjkvjkdvn</td>
+	</tr>
+</table>
+</body>
+</html>
